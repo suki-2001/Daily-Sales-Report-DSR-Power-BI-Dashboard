@@ -1,9 +1,9 @@
 # Mobile-Sales-Dashboard
 
-## 📱 Mobile Sales Insights Dashboard
+## Mobile Sales Insights Dashboard
 ### 1. Project Title / Headline
 
-📈 Mobile Sales Insights: Power BI Dashboard for Brand & Customer Trends
+Mobile Sales Insights: Power BI Dashboard for Brand & Customer Trends
 
 ### 2. Short Description / Purpose
 
@@ -73,8 +73,8 @@ Understands which age groups dominate mobile purchases.
 
 ##### The 3 pages of this Sales Dashboard
 
-https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png
+Dashboard Homepage - ![Screenshot1](https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard(Page%201).png)]
 
-https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png
+Dashboard Page2- ![Screenshot1](https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%202).png)]
 
-https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%203).png
+Dashboard Page3 - ![Screenshot1](https://github.com/suki-2001/Mobile-Sales-Dashboard/blob/main/Snapshot%20(Page%203).png)

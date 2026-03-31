@@ -1,4 +1,4 @@
-# Mobile-Sales-Dashboard
+# Power BI Dashboard: Daily Sales Report (DSR) for a Mobile Store
 
 ## Mobile Sales Insights Dashboard
 ### 1. Project Title / Headline
